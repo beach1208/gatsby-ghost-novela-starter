@@ -134,5 +134,4 @@ if (process.env.GATSBY_OLARK_ID) {
 
 module.exports = {
   plugins: gatsbyPlugins,
-  plugins: [`gatsby-plugin-netlify-cms`],
 };
